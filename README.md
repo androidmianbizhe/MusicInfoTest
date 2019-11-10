@@ -1,0 +1,2 @@
+# MusicInfoTest
+qt/cpp
