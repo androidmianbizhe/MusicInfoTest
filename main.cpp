@@ -3,7 +3,7 @@
 
 #include "MainFrame.h"
 #include <QTextCodec>
-
+// test for git 
 int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
